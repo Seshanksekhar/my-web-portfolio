@@ -33,7 +33,7 @@ export default function Navbar() {
           
           <div className="flex items-center gap-6">
             <a href="#" className="text-2xl font-display font-black tracking-tighter text-white">
-              SESHANK<span className="text-brand-primary">.</span>
+              SESHANK SEKHAR<span className="text-brand-primary">.</span>
             </a>
             <div className="hidden lg:flex items-center text-[10px] text-brand-accent font-mono uppercase tracking-widest gap-2">
               <span className="status-dot"></span>
